@@ -1,5 +1,5 @@
 
-name: widget-server pipe
+name: widget-server pipe ECR
 
 on:
   push:
